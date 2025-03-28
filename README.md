@@ -7,6 +7,6 @@ BinarySearch Tree
 RedBlackTree 
 [code](https://github.com/mounikamittapalli/DAA_Handson11/blob/b16c152b186f966729c955440e39253419dd9291/redBlackTree.py)  
 [output](https://github.com/mounikamittapalli/DAA_Handson11/blob/b16c152b186f966729c955440e39253419dd9291/RedblackTree%20output.png)  
-AVL  
+AVL    
 [code](https://github.com/mounikamittapalli/DAA_Handson11/blob/b16c152b186f966729c955440e39253419dd9291/avl.py)  
 [output](https://github.com/mounikamittapalli/DAA_Handson11/blob/b16c152b186f966729c955440e39253419dd9291/AVL%20output.png)
